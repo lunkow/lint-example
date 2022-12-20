@@ -1,0 +1,19 @@
+{
+  "name": "lint-example",
+  "version": "1.0.0",
+  "description": "- AirBnb Style guide :https://github.com/airbnb/javascript/\r - Stylelint + AirBnb: https://blog.csssr.com/ru/article/lint-your-css/\r - HTML: https://yeonjuan.github.io/html-eslint/\r - https://medium.com/@Tunmise/set-up-eslint-with-airbnb-style-guide-in-5-minutes-d7b4cc5707f8\r - https://ru.hexlet.io/blog/posts/rukovodstvo-eslint-prettier#kakie-problemy-reshaet-eslint\r - https://max-frontend.gitbook.io/redux-course-ru-v2/chapter1/eslint-i-prettier\r - https://tproger.ru/translations/setting-up-eslint-and-prettier/\r - https://www.youtube.com/watch?v=SydnKbGc7W8\r - https://stylelint.io/user-guide/get-started/#linting-css-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunkow/lint-example.git"
+  },
+  "author": "lunkow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunkow/lint-example/issues"
+  },
+  "homepage": "https://github.com/lunkow/lint-example#readme"
+}
